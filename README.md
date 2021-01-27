@@ -29,6 +29,6 @@
 */ TINKERCAD LINKLER/*
 
 * BOLUM 1(FONKSİYONLU): https://www.tinkercad.com/things/5mRhS1Fha7y
-* BOLUM 2(NORMAL): https://www.tinkercad.com/things/6RIGIMauEz5x
+* BOLUM 1(NORMAL): https://www.tinkercad.com/things/6RIGIMauEz5x
 * BOLUM 2: https://www.tinkercad.com/things/2TWxCshxHY5
 * OTOPARK SİSTEMİ: https://www.tinkercad.com/things/9FXSthtvNiq
